@@ -25,6 +25,13 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 <a href="https://vs_code.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="git" width="40" height="40"/> 
 
+  
+  <a href="https://github.com/Pankajkaushik2207">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pankajkaushik2207&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/Pankajkaushik2207">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pankajkaushik2207&show_icons=true&theme=light&line_height=27" alt="Pankaj's Github stats"/>
+</a>
 
 ## Connect with me:
 <p align="left">
