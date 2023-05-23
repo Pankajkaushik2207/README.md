@@ -26,12 +26,35 @@
 <a href="https://vs_code.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="git" width="40" height="40"/> 
 
   
-  <a href="https://github.com/Pankajkaushik2207">
+<!--   <a href="https://github.com/Pankajkaushik2207">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pankajkaushik2207&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/Pankajkaushik2207">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pankajkaushik2207&show_icons=true&theme=light&line_height=27" alt="Pankaj's Github stats"/>
+</a> -->
+  
+  
+  
+<summary style="text-align : center"><b>💻 GitHub Profile Stats</b>
+  <br/>
+<!--     <a href="https://github.com/Pankajkaushik2207/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Pankajkaushik2207&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="200px" width="370px"/></a>
+  <a href="https://github.com/Pankajkaushik2207/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pankajkaushik2207&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="200px" width="370px"/></a> -->
+   
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Pankajkaushik2207&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pankajkaushik2207&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
+   </tr> 
+  <tr><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Pankajkaushik2207&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td></tr>
+</table>
+  <br/>
+  </summary>
+
+<p align="center">
+<a href="https://github.com/Pankajkaushik2207/github-readme-activity-graph">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Pankajkaushik2207&bg_color=000019&color=70ffff&line=00a5a8&point=38ff4f&area=true&hide_border=true" width="100%">
 </a>
+</p>
 
 ## Connect with me:
 <p align="left">
